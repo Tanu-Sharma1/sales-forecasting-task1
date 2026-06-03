@@ -1,5 +1,5 @@
 # Sales Forecasting Project (Walmart Dataset)
-# Intern ID : CITS2210
+##### Intern ID : CITS2210
 ## Project Overview
 This project focuses on forecasting weekly sales using historical retail data. The goal is to analyze sales patterns and build a machine learning model that can predict future sales with high accuracy.
 --
